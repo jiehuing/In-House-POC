@@ -1,0 +1,123 @@
+Team,
+
+As discussed , sharing the artifacts .
+
+Good Luck
+
+Copying your Technical mentors (  Senthil and Jibin )as well. 
+
+Irshad,
+
+When you want the help of Technical mentors , please collect your questions and schedule a meeting with them in the evening.
+
+Regards
+Naren
+
+Task:
+Create a daily Fact Sheet
+The daily fact
+
+Main Problem: Where do we gather the data from?
+We only need to crawl the web for the NAV. our NAV is the 
+
+
+Technical Questions: 
+	Since inception (p.a.) is it the total growth/loss over the number of years?
+
+
+Requirements Gathering:
+	How are we supposed to gather the value for Bid-Bid (%), Offer-Bid (%), Benchmark (%)?
+	Which websites to use? (SGX for local) (search on yahoo? for all) (which data are we supposed to scrape for?) (it has to be accurate)
+	Do we have access to the fund bid since inception?
+	How to get the shares allocation?
+	For the daily fact sheet, the 1 month bid-bid is from current date to previous month end?
+	Are we supposed to produce two separate fact sheet?
+	Do you require a function to update the fund allocations? (Does the fund info changes?)
+	Do we need shares allocation and if so, how do we gather that?
+	Are we given all the fund details? (esp the NAV we need the number of shares?)
+	Are we supposed to be able to create a live form on demand for customers?
+	Does the offer-bid need to take into account the intial investment fee? If so, how to calculate?	
+
+
+	Nonfunctional requirements:
+		Types of graph?
+		How fast the system needs to be?
+		What is included in the performance history? 1 day- 2 day etc?
+		What time of the day are we supposed to gather the data?
+
+
+meeting: 
+What is benchmark? Benchmark is an index of a sum of companies.
+SGX (local), nysc (global), 
+Fee structure - 2% initial
+The fees, fund manager, details, etc should be configurable (in a config file)
+start date is configurable
+have one month worth of data
+dividend? is always reinvested
+error handling, previous day closing, generate when market is close
+NAV fixed 98M
+dont need to shuffle the stocks
+one fact sheet for each fund
+run everyday morning, in minutes, justify why.
+mail to clients
+security
+levy fees - use to calculate bid price (configurable)
+learn visualisation tools (tablo, clickview..)
+top 5
+vertical sector - sector, geo is not required
+fund details - configurable
+
+bid price is nav divided by liability (
+
+
+By Friday: Follow SRS (T matrix) (choose and give a reason)
+T matrix is for us	
+
+
+Meeting on SRS
+
+To do:
+Use database SQL
+use a vb script for the fund manager to edit the details and check anytime
+change user interface to the vb script
+have a slider for the fund manager to see the data (if doable), calender will be easier
+put in fake data for the performance table
+put in the fund fact sheet in the srs
+put in two column
+put in more data(1 year?)
+ust template for srs
+more specific workflow process for user experience
+activity flow chart for fund manger console (including screenshots)
+
+
+Done:
+use shall instead of will
+
+
+Final Presentation Takeaway:
+profile for the person who has logged in
+keep the menu as a side bar, or top bar
+keep the things aligned
+validation 
+consistency for the logout
+sorting option
+bid bid should be prestige
+update disclaimer
+
+C# 
+put css to separate files
+give meaningful names to variables
+coding standards
+do a code review based on coding standards
+should not invoke query directly from the main class, layers segregation
+configuration file (useful for multiple languages)
+take note of SQL injection
+use SQl connection then add parmaeters to it
+use prepared statements to avoid SQL injection
+JS is good for validation
+web server has to be IIS
+to get the language for asp and jsp
+they are translated by the web server
+http is the standard protocol for sending the information
+ftp listening to another port
+always engage with the customer.

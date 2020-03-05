@@ -1,0 +1,52 @@
+Bid - Bid (%)
+what is the bid for?
+What is the difference in bid between now and (1, 3, 6 months ago, 1 year ago)
+
+Offer - Bid (%)
+What is the offer for?
+
+What is the offer to bid price? 
+
+
+
+"Offer–Bid" performance data takes into account 5.00% of the initial fee of the investment.
+
+
+Benchmark (%)
+
+Benchmark is comparing against itself. 
+
+Since inception(p.a.) (per annum)
+	the total growth/loss divided by the total number of years. 
+
+Initial fees is applied to the Bid Pricing.
+Since bid to bid both take into account the 5%, the percentage growth of bid-bid does not depends on the initial sales charge.
+Offer does not depend on the intial sales charge, so offer-bid depends on the initial fees.
+
+Bid price and offer price depends on NAV.
+
+Offer price depends on redemption charge as well, do we have access to that?
+
+How to calculate NAV of a mutual funds.
+Can we check the number of shares a company has?
+
+What is the benchmark for?
+(given example - MSCI All china index)
+
+
+What is Year to date???
+The date from 1-jan to the current date
+
+The funds are collated at the end of the month. Therefore 6 months not equal "Year to date"
+
+
+
+NAV - Net Asset Values
+	Total value of the entity's assets minus the total value of its liabilities.
+
+Net Asset Value (NAV) = (Assets – Debts) / (Number of Outstanding units)
+
+Assets = Market value of mutual fund investments + Receivables + Accrued Income Debts = Liabilities + Expenses (accrued)
+
+Formula:
+NAV = (Assets - Liabilities) / Total number of outstanding shares
